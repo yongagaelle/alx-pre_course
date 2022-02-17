@@ -2,3 +2,5 @@
  I'm now a ALX Student, this is my first repository as a full-stack engineer
 # 0x01-git
 resources to learn git
+#repository
+modification the file README.md
